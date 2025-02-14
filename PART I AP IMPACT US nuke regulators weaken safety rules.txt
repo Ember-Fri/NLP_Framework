@@ -1,0 +1,340 @@
+﻿PART[a] I AP IMPACT US nuke regulators weaken safety rules
+
+
+By JEFF DONN LACEY TOWNSHIP, N.J. (AP) — Federal regulators have been working closely with the nuclear power industry to keep the nation's aging reactors operating within safety standards by repeatedly weakening those standards, or simply failing to enforce them, an investigation by The Associated Press has found.
+
+
+Time after time, officials at the U.S. Nuclear Regulatory Commission have decided that original regulations were too strict, arguing that safety margins could be eased without peril, according to records and interviews.
+
+
+The result? Rising fears that these accommodations by the NRC are significantly undermining safety — and inching the reactors closer to an accident that could harm the public and jeopardize the future of nuclear power in the United States.
+
+
+Examples abound. When valves leaked, more leakage was allowed — up to 20 times the original limit. When rampant cracking caused radioactive leaks from steam generator tubing, an easier test of the tubes was devised, so plants could meet standards.
+
+
+Failed cables. Busted seals. Broken nozzles, clogged screens, cracked concrete, dented containers, corroded metals and rusty underground pipes — all of these and thousands of other problems linked to aging were uncovered in the AP’s yearlong investigation. And all of them could escalate dangers in the event of an accident.
+
+
+Yet despite the many problems linked to aging, not a single official body in government or industry has studied the overall frequency and potential impact on safety of such breakdowns in recent years, even as the NRC has extended the licenses of dozens of reactors.
+
+
+Industry and government officials defend their actions, and insist that no chances are being taken. But the AP investigation found that with billions of dollars and 19 percent of America’s electricity supply at stake, a cozy relationship prevails between the industry and its regulator, the NRC.
+
+
+Records show a recurring pattern: Reactor parts or systems fall out of compliance with the rules. Studies are conducted by the industry and government, and all agree that existing standards are “unnecessarily conservative.”
+
+
+Regulations are loosened, and the reactors are back in compliance.
+
+
+“That’s what they say for everything, whether that’s the case or not,” said Demetrios Basdekas, an engineer retired from the NRC. “Every time you turn around, they say ‘We have all this built-in conservatism.'”
+
+
+The ongoing crisis at the stricken, decades-old Fukushima Dai-ichi nuclear facility in Japan has focused attention on the safety of plants elsewhere in the world; it prompted the NRC to look at U.S. reactors, and a report is due in July.
+
+
+But the factor of aging goes far beyond the issues posed by the disaster at Fukushima.
+
+
+Commercial nuclear reactors in the United States were designed and licensed for 40 years. When the first ones were being built in the 1960s and 1970s, it was expected that they would be replaced with improved models long before those licenses expired.
+
+
+But that never happened. The 1979 accident at Three Mile Island, massive cost overruns, crushing debt and high interest rates ended new construction proposals for several decades.
+
+
+Instead, 66 of the 104 operating units have been relicensed for 20 more years, mostly with scant public attention. Renewal applications are under review for 16 other reactors.
+
+
+By the standards in place when they were built, these reactors are old and getting older. As of today, 82 reactors are more than 25 years old.
+
+
+The AP found proof that aging reactors have been allowed to run less safely to prolong operations. As equipment has approached or violated safety limits, regulators and reactor operators have loosened or bent the rules.
+
+
+Last year, the NRC weakened the safety margin for acceptable radiation damage to reactor vessels — for a second time. The standard is based on a measurement known as a reactor vessel’s “reference temperature,” which predicts when it will become dangerously brittle and vulnerable to failure. Over the years, many plants have violated or come close to violating the standard.
+
+
+As a result, the minimum standard was relaxed first by raising the reference temperature 50 percent, and then 78 percent above the original — even though a broken vessel could spill its radioactive contents into the environment.
+
+
+“We’ve seen the pattern,” said nuclear safety scientist Dana Powers, who works for Sandia National Laboratories and also sits on an NRC advisory committee. “They’re … trying to get more and more out of these plants.”
+
+
+___
+
+
+SHARPENING THE PENCIL
+
+
+The AP collected and analyzed government and industry documents — including some never-before released. The examination looked at both types of reactor designs: pressurized water units that keep radioactivity confined to the reactor building and the less common boiling water types like those at Fukushima, which send radioactive water away from the reactor to drive electricity-generating turbines.
+
+
+Tens of thousands of pages of government and industry studies were examined, along with test results, inspection reports and regulatory policy statements filed over four decades. Interviews were conducted with scores of managers, regulators, engineers, scientists, whistleblowers, activists, and residents living near the reactors, which are located at 65 sites, mostly in the East and Midwest.
+
+
+AP reporting teams toured some of the oldest reactors — the unit here at Oyster Creek, near the Atlantic coast 50 miles east of Philadelphia, and two units at Indian Point, 25 miles north of New York City along the Hudson River.
+
+
+Called “Oyster Creak” by some critics because of its aging problems, this boiling water reactor began running in 1969 and ranks as the country’s oldest operating commercial nuclear power plant. Its license was extended in 2009 until 2029, though utility officials announced in December that they’ll shut the reactor 10 years earlier rather than build state-ordered cooling towers. Applications to extend the lives of pressurized water units 2 and 3 at Indian Point, each more than 36 years old, are under review by the NRC.
+
+
+Unprompted, several nuclear engineers and former regulators used nearly identical terminology to describe how industry and government research has frequently justified loosening safety standards to keep aging reactors within operating rules. They call the approach “sharpening the pencil” or “pencil engineering” — the fudging of calculations and assumptions to yield answers that enable plants with deteriorating conditions to remain in compliance.
+
+
+“Many utilities are doing that sort of thing,” said engineer Richard T. Lahey Jr., who used to design nuclear safety systems for General Electric Co., which makes boiling water reactors. “I think we need nuclear power, but we can’t compromise on safety. I think the vulnerability is on these older plants.”
+
+
+Added Paul Blanch, an engineer who left the industry over safety issues but later returned to work on solving them: “It’s a philosophical position that (federal regulators) take that’s driven by the industry and by the economics: What do we need to do to let those plants continue to operate? They somehow sharpen their pencil to either modify their interpretation of the regulations, or they modify their assumptions in the risk assessment.”
+
+
+In public pronouncements, industry and government say aging is well under control. “I see an effort on the part of this agency to always make sure that we’re doing the right things for safety. I’m not sure that I see a pattern of staff simply doing things because there’s an interest to reduce requirements — that’s certainly not the case,” NRC chairman Gregory Jaczko said in an interview at agency headquarters in Rockville, Md.
+
+
+Neil Wilmshurst, director of plant technology for the industry’s Electric Power Research Institute, acknowledged that the industry and NRC often collaborate on research that supports rule changes. But he maintained that there’s “no kind of misplaced alliance … to get the right answer.”
+
+
+Yet agency staff, plant operators, and consultants paint a different picture in little-known reports, where evidence of industry-wide problems is striking:
+
+
+—The AP reviewed 226 preliminary notifications — alerts on emerging safety problems — issued by the NRC since 2005. Wear and tear in the form of clogged lines, cracked parts, leaky seals, rust and other deterioration contributed to at least 26 alerts over the past six years. Other notifications lack detail, but aging also was a probable factor in 113 additional alerts. That would constitute up to 62 percent in all. For example, the 39-year-old Palisades reactor in Michigan shut Jan. 22 when an electrical cable failed, a fuse blew, and a valve stuck shut, expelling steam with low levels of radioactive tritium into the air outside. And a one-inch crack in a valve weld aborted a restart in February at the LaSalle site west of Chicago.
+
+
+—One 2008 NRC report blamed 70 percent of potentially serious safety problems on “degraded conditions.” Some involve human factors, but many stem from equipment wear, including cracked nozzles, loose paint, electrical problems, or offline cooling components.
+
+
+—Confronted with worn parts that need maintenance, the industry has repeatedly requested — and regulators have often allowed — inspections and repairs to be delayed for months until scheduled refueling outages. Again and again, problems worsened before they were fixed. Postponed inspections inside a steam generator at Indian Point allowed tubing to burst, leading to a radioactive release in 2000. Two years later, cracking was allowed to grow so bad in nozzles on the reactor vessel at the Davis-Besse plant near Toledo, Ohio, that it came within two months of a possible breach, the NRC acknowledged in a report. A hole in the vessel could release radiation into the environment, yet inspections failed to catch the same problem on the replacement vessel head until more nozzles were found to be cracked last year.
+
+
+___
+
+
+TIME CRUMBLES THINGS
+
+
+Nuclear plants are fundamentally no more immune to the incremental abuses of time than our cars or homes: Metals grow weak and rusty, concrete crumbles, paint peels, crud accumulates. Big components like 17-story-tall concrete containment buildings or 800-ton reactor vessels are all but impossible to replace. Smaller parts and systems can be swapped, but still pose risks as a result of weak maintenance and lax regulation or hard-to-predict failures. Even when things are fixed or replaced, the same parts or others nearby often fail later.
+
+
+Even mundane deterioration at a reactor can carry harsh consequences.
+
+
+For example, peeling paint and debris can be swept toward pumps that circulate cooling water in a reactor accident. A properly functioning containment building is needed to create air pressure that helps clear those pumps. The fact is, a containment building could fail in a severe accident. Yet the NRC has allowed operators to make safety calculations that assume containment buildings will hold.
+
+
+In a 2009 letter, Mario V. Bonaca, then-chairman of the NRC’s Advisory Committee on Reactor Safeguards, warned that this approach represents “a decrease in the safety margin” and makes a fuel-melting accident more likely. At Fukushima, hydrogen explosions blew apart two of six containment buildings, allowing radiation to escape from overheated fuel in storage pools.
+
+
+Many photos in NRC archives — some released in response to AP requests under the federal Freedom of Information Act — show rust accumulated in a thick crust or paint peeling in long sheets on untended equipment at nuclear plants. Other breakdowns can’t be observed or predicted, even with sophisticated analytic methods — especially for buried, hidden or hard-to-reach parts.
+
+
+Industry and government reports are packed with troubling evidence of unrelenting wear — and repeated regulatory compromises.
+
+
+Four areas stand out:
+
+
+BRITTLE VESSELS: For years, operators have rearranged fuel rods to limit gradual radiation damage to the steel vessels protecting the core and to keep them strong enough to meet safety standards.
+
+
+It hasn’t worked well enough.
+
+
+Even with last year’s weakening of the safety margins, engineers and metal scientists say some plants may be forced to close over these concerns before their licenses run out — unless, of course, new compromises with regulations are made. But the stakes are high: A vessel damaged by radiation becomes brittle and prone to cracking in certain accidents at pressurized water reactors, potentially releasing its radioactive contents into the environment.
+
+
+LEAKY VALVES: Operators have repeatedly violated leakage standards for valves designed to bottle up radioactive steam in the event of earthquakes and other accidents at boiling water reactors.
+
+
+Many plants have found they could not adhere to the general standard allowing each of these parts — known as main steam isolation valves — to leak at a rate of no more than 11.5 cubic feet per hour. In 1999, the NRC decided to permit individual plants to seek amendments of up to 200 cubic feet per hour for all four steam valves combined.
+
+
+But plants keep violating even those higher limits. For example, in 2007, Hatch Unit 2, in Baxley, Ga., reported combined leakage of 574 cubic feet per hour.
+
+
+CRACKED TUBING: The industry has long known of cracking in steel alloy tubing originally used in the steam generators of pressurized water reactors. Ruptures were rampant in these tubes containing radioactive coolant; in 1993 alone, there were seven. Even today, as many as 18 reactors are still running on old generators.
+
+
+Problems can arise even in a newer metal alloy, according to a report of a 2008 industry-government workshop.
+
+
+CORRODED PIPING: Nuclear operators have failed to stop an epidemic of leaks in pipes and other underground equipment in damp settings. The country’s nuclear sites have suffered more than 400 accidental radioactive leaks during their history, the activist Union of Concerned Scientists reported in September.
+
+
+Plant operators have been drilling monitoring wells and patching hidden or buried piping and other equipment for several years to control an escalating outbreak.
+
+
+Here, too, they have failed. Between 2000 and 2009, the annual number of leaks from underground piping shot up fivefold, according to an internal industry document obtained and analyzed by the AP.
+
+
+___
+
+
+CONCERNS OF LONG STANDING
+
+
+Even as they reassured the public, regulators have been worrying about aging reactors since at least the 1980s, when the first ones were entering only their second decade of operation. A 1984 report for the NRC blamed wear, corrosion, crud and fatigue for more than a third of 3,098 failures of parts or systems within the first 12 years of industry operations; the authors believed the number was actually much higher.
+
+
+A decade later, in 1994, the NRC reported to Congress that the critical shrouds lining reactor cores were cracked at a minimum of 11 units, including five with extensive damage. The NRC ordered more aggressive maintenance, but an agency report last year said cracking of internal core components — spurred by radiation — remains “a major concern” in boiling water reactors.
+
+
+A 1995 study by Oak Ridge National Laboratory covering a seven-year period found that aging contributed to 19 percent of scenarios that could have ended in severe accidents.
+
+
+In 2001, the Union of Concerned Scientists, which does not oppose nuclear power, told Congress that aging problems had shut reactors eight times within 13 months.
+
+
+And an NRC presentation for an international workshop that same year warned of escalating wear at reactor buildings meant to bottle up radiation during accidents. A total of 66 cases of damage were cited in the presentation, with corrosion reported at a quarter of all containment buildings. In at least two cases — at the two-reactor North Anna site 40 miles northwest of Richmond, Va., and the two-unit Brunswick facility near Wilmington, N.C. — steel containment liners designed to shield the public had rusted through.
+
+
+And in 2009, a one-third-inch hole was discovered in a liner at Beaver Valley Unit 1 in Shippingport, Pa.
+
+
+Long-standing, unresolved problems persist with electrical cables, too.
+
+
+In a 1993 report labeled “official use only,” an NRC staffer warned that electrical parts throughout plants were subject to dangerous age-related breakdowns unforeseen by the agency. Almost a fifth of cables failed in testing that simulated the effects of 40 years of wear. The report warned that as a result, reactor core damage could occur much more often than expected.
+
+
+Fifteen years later, the problem appeared to have worsened. An NRC report warned in 2008 that rising numbers of electrical cables are failing with age, prompting temporary shutdowns and degrading safety. Agency staff tallied 269 known failures over the life of the industry.
+
+
+Two industry-funded reports obtained by the AP said that managers and regulators have worried increasingly about the reliability of sometimes wet, hard-to-reach underground cables over the past five-to-10 years. One of the reports last year acknowledged many electrical-related aging failures at plants around the country.
+
+
+“Multiple cable circuits may fail when called on to perform functions affecting safety,” the report warned.
+
+
+___
+
+
+EATEN AWAY FROM WITHIN
+
+
+Few aging problems have been more challenging than chemical corrosion from within.
+
+
+In one of the industry’s worst accidents, a corroded pipe burst at Virginia’s Surry 2 reactor in 1986 and showered workers with scalding steam, killing four.
+
+
+In summer 2001, the NRC was confronted with a new problem: Corrosive chemicals were cracking nozzles on reactors. But the NRC let operators delay inspections to coincide with scheduled outages. Inspection finally took place in February 2002 at the Davis-Besse unit in Ohio.
+
+
+What workers found shocked the industry.
+
+
+They discovered extensive cracking and a place where acidic boron had spurted from the reactor and eaten a gouge as big as a football. When the problem was found, just a fraction of an inch of inner lining remained. An NRC analysis determined that the vessel head could have burst within two months — what former NRC Commissioner Peter Bradford has called a “near rupture” which could have released large amounts of radiation into the environment.
+
+
+In 2001-3 alone, at least 10 plants developed these cracks, according to an NRC analysis.
+
+
+Industry defenders blame human failings at Davis-Besse. Owner FirstEnergy Corp. paid a $28 million fine, and courts convicted two plant employees of hiding the deterioration. NRC spokesman Scott Burnell declared that the agency “learned from the incident and improved resident inspector training and knowledge-sharing to ensure that such a situation is never repeated.”
+
+
+Yet on the same March day last year that Burnell’s comments were released, Davis-Besse workers again found dried boron on the nozzles of a replacement vessel head, indicating more leaks. Inspecting further, they again found cracks in 24 of 69 nozzles.
+
+
+“We were not expecting this issue,” said plant spokesman Todd Schneider.
+
+
+In August, the operator applied for a 20-year license extension. Under pressure from the NRC, the company has agreed to replace the replacement head in October.
+
+
+As far back as the 1990s, the industry and NRC also were well aware that the steel-alloy tubing in many steam generators was subject to chemical corrosion. It could crack over time, releasing radioactive gases that can bypass the containment building. If too much spurts out, there may be too little water to cool down the reactor, prompting a core melt.
+
+
+In 1993, NRC personnel reported seven outright ruptures inside the generators, several forced outages per year, and some complete replacements. Personnel at the Catawba plant near Charlotte, N.C., found more than 8,000 corroded tubes — more than half its total.
+
+
+For plants with their original generators, “there is no end in sight to the steam generator tube degradation problems,” a top agency manager declared. NRC staffers warned: “Crack depth is difficult to measure reliably and the crack growth rate is difficult to determine.”
+
+
+Yet no broad order was issued for shutdowns to inspect generators.
+
+
+Instead, the staff began to talk to operators about how to deal with the standard that no cracks could go deeper than 40 percent through the tube wall.
+
+
+In 1995, the NRC staff put out alternative criteria that let reactors keep running if they could reach positive results with remote checks known as “eddy-currents tests.” The new test standard gave more breathing room to reactors.
+
+
+According to a 2001 report by the Advisory Committee on Reactor Safeguards, the staff “acknowledged that there would be some possibility that cracks of objectionable depth might be overlooked and left in the steam generator for an additional operating cycle.” The alternative, the report said, would be to repair or remove potentially many tubes from service.
+
+
+NRC engineer Joe Hopenfeld, who had worked previously in the industry, challenged this approach at the time from within the agency. He warned that multiple ruptures in corroded tubing could release radiation. The NRC said radiation would be confined.
+
+
+Hopenfeld now says this conclusion wasn’t based on solid analysis but “wishful thinking” and research meant to reach a certain conclusion — another instance of “sharpening the pencil.”
+
+
+“It was a hard problem to solve, and they did not want to say it was a problem, because if they really said it was a problem, they would have to shut down a lot of reactors.”
+
+
+___
+
+
+AGE IS NO ISSUE, SAYS INDUSTRY
+
+
+With financial pressures mounting in the 1990s to extend the life of aging reactors, new NRC calculations using something called the “Master Curve” put questionable reactor vessels back into the safe zone.
+
+
+A 1999 NRC review of the Master Curve, used to analyze metal toughness, noted that energy deregulation had put financial pressure on nuclear plants. It went on: “So utility executives are considering new operational scenarios, some of which were unheard of as little as five years ago: extending the licensed life of the plant beyond 40 years.” As a result, it said, the industry and the NRC were considering “refinements” of embrittlement calculations “with an eye to reducing known over-conservatisms.”
+
+
+Asked about references to economic pressures, NRC spokesman Burnell said motivations are irrelevant if a technology works.
+
+
+Former NRC commissioner Peter Lyons said, “There certainly is plenty of research … to support a relaxation of the conservativisms that had been built in before. I don’t see that as decreasing safety. I see that as an appropriate standard.”
+
+
+Though some parts are too big and too expensive to replace, industry defenders also point out that many others are routinely replaced over the years.
+
+
+Tony Pietrangelo, chief nuclear officer of the industry’s Nuclear Energy Institute, acknowledges that you’d expect to see a growing failure rate at some point — “if we didn’t replace and do consistent maintenance.”
+
+
+In a sense, then, supporters of aging nukes say an old reactor is essentially a collection of new parts.
+
+
+“When a plant gets to be 40 years old, about the only thing that’s 40 years old is the ink on the license,” said NRC chief spokesman Eliot Brenner. “Most, if not all of the major components, will have been changed out.”
+
+
+Oyster Creek spokesman David Benson said the reactor “is as safe today as when it was built.”
+
+
+Yet plant officials have been trying to arrest rust on its 100-foot-high, radiation-blocking steel drywell for decades. The problem was declared solved long ago, but a rust patch was found again in late 2008. Benson said the new rust was only the size of a dime, but acknowledged there was “some indication of water getting in.”
+
+
+In an effort to meet safety standards, aging reactors have been forced to come up with backfit on top of backfit.
+
+
+As Ivan Selin, a retired NRC chairman, put it: “It’s as if we were all driving Model T’s today and trying to bring them up to current mileage standards.”
+
+
+For example, the state of New Jersey — not the NRC — had ordered Oyster Creek to build cooling towers to protect sea life in nearby Barnegat Bay. Owner Exelon Corp. said that would cost about $750 million and force it to close the reactor — 20-year license extension notwithstanding. Even with the announcement to close in 2019, Oyster Creek will have been in operation for 50 years.
+
+
+Many of the safety changes have been justified by something called “risk-informed” analysis, which the industry has employed widely since the 1990s: Regulators set aside a strict check list applied to all systems and focus instead on features deemed to carry the highest risk.
+
+
+But one flaw of risk-informed analysis is that it doesn’t explicitly account for age. An older reactor is not viewed as inherently more unpredictable than a younger one. Ed Lyman, a physicist with the Union of Concerned Scientists, says risk-informed analysis has usually served “to weaken regulations, rather than strengthen them.”
+
+
+Even without the right research, the NRC has long reserved legal wiggle room to enforce procedures, rules and standards as it sees fit. A 2008 position paper by the industry group EPRI said the approach has brought “a more tractable enforcement process and a significant reduction in the number of cited violations.”
+
+
+But some safety experts call it “tombstone regulation,” implying that problems fester until something goes very wrong. “Until there are tombstones, they don’t regulate,” said Blanch, the longtime industry engineer who became a whistleblower.
+
+
+Barry Bendar, a database administrator who lives one mile from Oyster Creek, said representatives of Exelon were asked at a public meeting in 2009 if the plant had a specific life span.
+
+
+“Their answer was, ‘No, we can fix it, we can replace, we can patch,'” said Bendar. “To me, everything reaches an end of its life span.”
+
+
+
+
+[a]APRIL 16, 2012 
+https://www.ap.org/media-center/press-releases/2012/part-i-ap-impact-us-nuke-regulators-weaken-safety-rules/
